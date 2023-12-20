@@ -4,10 +4,11 @@ for Terminal:
 
 * [atuin](https://github.com/atuinsh/atuin) -  A shell history search tool that synchronizes across multiple machines. It enhances color output by highlighting search results, making it easier to debug and track command history.
 * [bat](https://github.com/sharkdp/bat/) -  A cat clone with syntax highlighting and Git integration. It enhances readability of code by colorizing output, which aids in debugging.
+* [bacon](https://github.com/Canop/bacon) - 
 * [batpipe](https://github.com/eth-p/bat-extras/blob/master/doc/batpipe.md) -  A tool that provides extra functionality for bat, such as piping support. It also supports color output, making it easier to distinguish between different parts of the output.
 * [bingrep](https://github.com/m4b/bingrep) -  Greps through binaries from various OSs and architectures, and colors them. This colorization helps in debugging by making it easier to identify patterns and anomalies.
 * [ble](https://github.com/akinomyoga/ble.sh) -  A Bash line editor to make your command line more powerful. It enhances color output to improve readability and ease of use.
-* [Clink](https://github.com/chrisant996/clink)
+* [Clink](https://github.com/chrisant996/clink) -
 * [eza](https://github.com/eza-community/eza) -  A command line tool for easy access to common tasks. It uses color output to differentiate between different types of tasks.
 * [fclones](https://github.com/pkolaczk/fclones) -  A tool to find duplicate files and directories. It uses color output to highlight duplicates, aiding in debugging and cleanup.
 * [fd](https://github.com/sharkdp/fd) -  A simple, fast and user-friendly alternative to 'find'. It uses color output to enhance readability of search results.
