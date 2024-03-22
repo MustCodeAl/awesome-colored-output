@@ -7,7 +7,8 @@ for Terminal:
 * [bacon](https://github.com/Canop/bacon) - 
 * [batpipe](https://github.com/eth-p/bat-extras/blob/master/doc/batpipe.md) -  A tool that provides extra functionality for bat, such as piping support. It also supports color output, making it easier to distinguish between different parts of the output.
 * [bingrep](https://github.com/m4b/bingrep) -  Greps through binaries from various OSs and architectures, and colors them. This colorization helps in debugging by making it easier to identify patterns and anomalies.
-* [Clink](https://github.com/chrisant996/clink) -
+* [Clink](https://github.com/chrisant996/clink) - Utilities for Command Prompt
+* [Cppman](https://github.com/aitjcize/cppman) - C++ man pages in color
 * [eza](https://github.com/eza-community/eza) -  A command line tool for easy access to common tasks. It uses color output to differentiate between different types of tasks.
 * [fclones](https://github.com/pkolaczk/fclones) -  A tool to find duplicate files and directories. It uses color output to highlight duplicates, aiding in debugging and cleanup.
 * [fd](https://github.com/sharkdp/fd) -  A simple, fast and user-friendly alternative to 'find'. It uses color output to enhance readability of search results.
