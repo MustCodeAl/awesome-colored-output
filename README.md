@@ -38,6 +38,7 @@ Tools:
 [coteditor](https://coteditor.com/)
 [quick source code extension](https://github.com/sbarex/SourceCodeSyntaxHighlight)
 [gdb](https://www.gdbgui.com/)
+[WarpTerminal](https://www.warp.dev/)
 
 Shell: 
 * [zsh-help](https://github.com/Freed-Wu/zsh-help)
