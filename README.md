@@ -2,6 +2,8 @@
 Adding beauitful outputs to many commands to increase readability
 for Terminal:
 
+test edito
+
 * [atuin](https://github.com/atuinsh/atuin) -  A shell history search tool that synchronizes across multiple machines. It enhances color output by highlighting search results, making it easier to debug and track command history.
 * [bat](https://github.com/sharkdp/bat/) -  A cat clone with syntax highlighting and Git integration. It enhances readability of code by colorizing output, which aids in debugging.
 * [bacon](https://github.com/Canop/bacon) - 
