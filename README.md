@@ -31,7 +31,7 @@ for Terminal:
 * [top rpeplacement](https://github.com/ClementTsang/bottom)
 * [hexyl](https://github.com/sharkdp/hexyl) -  A hex viewer for the modern era. It uses color output to enhance readability of hex data, aiding in debugging.
 * [lnav](https://lnav.org/)
-
+* [bfs](https://github.com/tavianator/bfs)
 
 
 Tools: 
